@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Franz Krah</title>
+    <link>FranzKrah.github.io/authors/admin/</link>
+    <description>Recent content in admin on Franz Krah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;Krah{year}</copyright>
+    
+	<atom:link href="FranzKrah.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>FranzKrah.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>FranzKrah.github.io/author/admin/</guid>
+      <description>Franz-S. Krah is a PhD candidate in fungal community ecology. His research interests are fungal community ecology, fungal trait-evolution and the fungus-host-climate interaction.</description>
+    </item>
+    
+  </channel>
+</rss>
