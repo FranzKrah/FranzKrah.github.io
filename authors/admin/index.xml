@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on Franz Krah</title>
@@ -17,9 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>FranzKrah.github.io/author/admin/</guid>
-      <description>I am interested in the evolution of our society towards ecological, energetic and economic sustainability. I can contribute a deep ecological thinking, economic interest and many years of data-science, project-management and problem-solving experience.
-Ecology, Energy and Economy - hand in hand; is our only chance!
-Please use the icons on the left to navigate to specific topics, such as my scientific output, software, CV and social platforms.</description>
+      <description>I received my PhD in 2019 from the Technical University of Munich (‚summa cum laude‘). My main research interest is evidence-based biodiversity conservation. Key research question is: How does climate change and anthropogenic influences affect biodiversity? Although it seems like the answers are quit obvious, developping a mechanistic understanding to explain observed pattern is challanging. The general direction is „from pattern to processes“. To understand assembly processes I use trait-based and phylogenetic approaches together with survey studies and experiments on various spatial scales.</description>
     </item>
     
   </channel>
